@@ -1,7 +1,7 @@
 # Collaborative Whiteboard with GlassFish
 
 ## Description:
-a real-time whiteboarding web app that enables users to collaborate
+A real-time whiteboarding web app that enables users to collaborate
 and draw together in real time, making it perfect for remote teams.
 Built the front-end using HTML/CSS and JavaScript, and implemented 
 the real-time collaboration functionality using Java with GlassFish.
